@@ -1,4 +1,8 @@
-# AirBNB New York Dec 2021
+# AirBNB New York City
+
+## Members
+- [Hieu Pham](https://github.com/hieu1210)
+- [Trinh Nguyen](https://github.com/natalie391131)
 
 Our two big question are:
 1. What factors (facilities/prices/customer service) affect revenue the most?
